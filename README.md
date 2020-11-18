@@ -1,7 +1,8 @@
 # UC-PBM_PhDResearch_Monash2020
 
 ***************************************************************************
-******************************* UC-PBM_v6.0 *******************************
+
+UC-PBM v6.0
 
 This folder contains the MATLAB codes for the Unified Cybernetic-Population
 Balance Model (UC-PBM), developed by Firnaaz Ahamed as part of PhD research
@@ -32,4 +33,3 @@ Instructions:
 1. Run run_UCPBM.m file.
 
 ***************************************************************************
-*********************************** End ***********************************
